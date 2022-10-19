@@ -14,8 +14,8 @@ body, html {
     /* background-repeat: no-repeat; */
 }
 .parallax2 {
-    background: url(Image/image2.jpg);
-    min-height: 60%;
+    background: url(Image/Hobbit.jpg);
+    min-height: 80%;
     /* background-repeat: no-repeat; */
 }
 .parallax3 {
@@ -38,8 +38,9 @@ body, html {
 }
 .heading {
     position: absolute;
+    
     color: white;
-    font-size: 550%;
+    font-size: 400%;
     top: 40%;
     width: 100%;
     text-transform: uppercase;
